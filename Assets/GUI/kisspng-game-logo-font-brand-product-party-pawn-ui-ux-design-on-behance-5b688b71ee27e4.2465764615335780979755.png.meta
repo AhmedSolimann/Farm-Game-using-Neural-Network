@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: 1c56f31b93b136b40adecb8209a0af7d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4748347716504956506
+    second: kisspng-game-logo-font-brand-product-party-pawn-ui-ux-design-on-behance-5b688b71ee27e4.2465764615335780979755_0
+  - first:
+      213: 7789968701787741820
+    second: kisspng-game-logo-font-brand-product-party-pawn-ui-ux-design-on-behance-5b688b71ee27e4.2465764615335780979755_1
+  - first:
+      213: -7530083450314505822
+    second: kisspng-game-logo-font-brand-product-party-pawn-ui-ux-design-on-behance-5b688b71ee27e4.2465764615335780979755_2
+  - first:
+      213: 7969490947855714910
+    second: kisspng-game-logo-font-brand-product-party-pawn-ui-ux-design-on-behance-5b688b71ee27e4.2465764615335780979755_3
+  - first:
+      213: -6770330046089312884
+    second: kisspng-game-logo-font-brand-product-party-pawn-ui-ux-design-on-behance-5b688b71ee27e4.2465764615335780979755_4
+  - first:
+      213: 9134842992161544684
+    second: kisspng-game-logo-font-brand-product-party-pawn-ui-ux-design-on-behance-5b688b71ee27e4.2465764615335780979755_5
+  - first:
+      213: 5356194538918745143
+    second: kisspng-game-logo-font-brand-product-party-pawn-ui-ux-design-on-behance-5b688b71ee27e4.2465764615335780979755_6
+  - first:
+      213: 7014577583255011678
+    second: kisspng-game-logo-font-brand-product-party-pawn-ui-ux-design-on-behance-5b688b71ee27e4.2465764615335780979755_7
+  - first:
+      213: -2500997194169814533
+    second: kisspng-game-logo-font-brand-product-party-pawn-ui-ux-design-on-behance-5b688b71ee27e4.2465764615335780979755_8
+  - first:
+      213: 5627719922788159224
+    second: kisspng-game-logo-font-brand-product-party-pawn-ui-ux-design-on-behance-5b688b71ee27e4.2465764615335780979755_9
+  - first:
+      213: -4076616648958079461
+    second: kisspng-game-logo-font-brand-product-party-pawn-ui-ux-design-on-behance-5b688b71ee27e4.2465764615335780979755_10
+  - first:
+      213: -70952912262956584
+    second: kisspng-game-logo-font-brand-product-party-pawn-ui-ux-design-on-behance-5b688b71ee27e4.2465764615335780979755_11
+  - first:
+      213: -7716783406058990387
+    second: kisspng-game-logo-font-brand-product-party-pawn-ui-ux-design-on-behance-5b688b71ee27e4.2465764615335780979755_12
+  - first:
+      213: -638488701897176844
+    second: kisspng-game-logo-font-brand-product-party-pawn-ui-ux-design-on-behance-5b688b71ee27e4.2465764615335780979755_13
+  - first:
+      213: -177609939471927610
+    second: kisspng-game-logo-font-brand-product-party-pawn-ui-ux-design-on-behance-5b688b71ee27e4.2465764615335780979755_14
+  - first:
+      213: -2264555174981226675
+    second: kisspng-game-logo-font-brand-product-party-pawn-ui-ux-design-on-behance-5b688b71ee27e4.2465764615335780979755_15
+  - first:
+      213: 8114717603190124656
+    second: kisspng-game-logo-font-brand-product-party-pawn-ui-ux-design-on-behance-5b688b71ee27e4.2465764615335780979755_16
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-game-logo-font-brand-product-party-pawn-ui-ux-design-on-behance-5b688b71ee27e4.2465764615335780979755_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 497
+        width: 173
+        height: 789
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1e6cd30c3d0e348b8d172f2d13d586
+      internalID: 4748347716504956506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-logo-font-brand-product-party-pawn-ui-ux-design-on-behance-5b688b71ee27e4.2465764615335780979755_1
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1147
+        width: 54
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec0a3c7087129e4e9de57be63a15d17
+      internalID: 7789968701787741820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-logo-font-brand-product-party-pawn-ui-ux-design-on-behance-5b688b71ee27e4.2465764615335780979755_2
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1148
+        width: 54
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59619adec3b0d6d4891bcd0855d0c7c5
+      internalID: -7530083450314505822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-logo-font-brand-product-party-pawn-ui-ux-design-on-behance-5b688b71ee27e4.2465764615335780979755_3
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1100
+        width: 96
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80af8359d1023cf44bdcaf619ce47bac
+      internalID: 7969490947855714910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-logo-font-brand-product-party-pawn-ui-ux-design-on-behance-5b688b71ee27e4.2465764615335780979755_4
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1100
+        width: 94
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133a40ea80cab814e9cb28fbfab8cb03
+      internalID: -6770330046089312884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-logo-font-brand-product-party-pawn-ui-ux-design-on-behance-5b688b71ee27e4.2465764615335780979755_5
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1136
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3b8f7433eca174ea21d4de9727d1c1
+      internalID: 9134842992161544684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-logo-font-brand-product-party-pawn-ui-ux-design-on-behance-5b688b71ee27e4.2465764615335780979755_6
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1140
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f2424f9c4446a47b8b19106738d455
+      internalID: 5356194538918745143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-logo-font-brand-product-party-pawn-ui-ux-design-on-behance-5b688b71ee27e4.2465764615335780979755_7
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 800
+        width: 225
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15412fc449c53b64989ebcb43e43305b
+      internalID: 7014577583255011678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-logo-font-brand-product-party-pawn-ui-ux-design-on-behance-5b688b71ee27e4.2465764615335780979755_8
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 807
+        width: 219
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c838085586897e14ab2feb8b35f4e711
+      internalID: -2500997194169814533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-logo-font-brand-product-party-pawn-ui-ux-design-on-behance-5b688b71ee27e4.2465764615335780979755_9
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 813
+        width: 223
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5cecbcfa0002941bef138b5988769b
+      internalID: 5627719922788159224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-logo-font-brand-product-party-pawn-ui-ux-design-on-behance-5b688b71ee27e4.2465764615335780979755_10
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 509
+        width: 223
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedbdc6904ea9a64bae76f3b980f8250
+      internalID: -4076616648958079461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-logo-font-brand-product-party-pawn-ui-ux-design-on-behance-5b688b71ee27e4.2465764615335780979755_11
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 510
+        width: 223
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3abcbd436b8f2145a26fe38013b80d2
+      internalID: -70952912262956584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-logo-font-brand-product-party-pawn-ui-ux-design-on-behance-5b688b71ee27e4.2465764615335780979755_12
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 505
+        width: 223
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837887d2014cb5d46b63cb571b0b481c
+      internalID: -7716783406058990387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-logo-font-brand-product-party-pawn-ui-ux-design-on-behance-5b688b71ee27e4.2465764615335780979755_13
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 278
+        width: 513
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61667c86ce98f5047a8f00264c876f5a
+      internalID: -638488701897176844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-logo-font-brand-product-party-pawn-ui-ux-design-on-behance-5b688b71ee27e4.2465764615335780979755_14
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 278
+        width: 512
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52365f69f22f75f46b2a1c2a21264265
+      internalID: -177609939471927610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-logo-font-brand-product-party-pawn-ui-ux-design-on-behance-5b688b71ee27e4.2465764615335780979755_15
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 11
+        width: 513
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff16e4368ae566140bf6f76559148f78
+      internalID: -2264555174981226675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-logo-font-brand-product-party-pawn-ui-ux-design-on-behance-5b688b71ee27e4.2465764615335780979755_16
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 15
+        width: 512
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a583b4c0e9bc3247aa86f480123f4e1
+      internalID: 8114717603190124656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

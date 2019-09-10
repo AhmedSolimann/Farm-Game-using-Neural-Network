@@ -1,0 +1,31 @@
+D:\Gp\Farming Game\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Gp\Farming Game\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Gp\Farming Game\Temp\bin\Debug\UnityEditor.dll
+D:\Gp\Farming Game\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Gp\Farming Game\Temp\bin\Debug\UnityEngine.dll
+D:\Gp\Farming Game\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\Gp\Farming Game\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Gp\Farming Game\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+D:\Gp\Farming Game\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Gp\Farming Game\Temp\bin\Debug\UnityEngine.VR.dll
+D:\Gp\Farming Game\Temp\bin\Debug\Mono.Cecil.dll
+D:\Gp\Farming Game\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Gp\Farming Game\Temp\bin\Debug\Unity.DataContract.dll
+D:\Gp\Farming Game\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Gp\Farming Game\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Gp\Farming Game\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Gp\Farming Game\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Gp\Farming Game\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Gp\Farming Game\Temp\bin\Debug\UnityEngine.xml
+D:\Gp\Farming Game\Temp\bin\Debug\UnityEditor.xml
+D:\Gp\Farming Game\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Gp\Farming Game\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Gp\Farming Game\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+D:\Gp\Farming Game\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\Gp\Farming Game\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\Gp\Farming Game\Temp\bin\Debug\UnityEngine.VR.xml
+D:\Gp\Farming Game\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Gp\Farming Game\obj\Debug\Assembly-CSharp.dll
+D:\Gp\Farming Game\obj\Debug\Assembly-CSharp.pdb
+D:\Ahmed\BUE\year3\Graduation Project\Gp\Farming Game\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Ahmed\BUE\year3\Graduation Project\Gp\Farming Game\obj\Debug\Assembly-CSharp.dll
